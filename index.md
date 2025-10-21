@@ -26,7 +26,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [AI: To be or Not to be in Ethics](/pdf/CSCI301_AI_Ethics_Paper_2025 (1).pdf)
+### [AI: To be or Not to be in Ethics](/pdf/CSCI301_AI_Ethics_Paper_2025(1).pdf)
 
 -   **Class:** CSCI 301  
 -   **Grade:** 90 (A)
@@ -35,11 +35,6 @@ Ethics Papers
 
 -   **Class:** CSCI 235
 -   **Grade:** 95 (A)
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
 
 ---
 
