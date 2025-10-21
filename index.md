@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:bjcooper2@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Automated Web Scraper | CSCI 301](project1)
@@ -26,7 +26,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [AI: To be or Not to be in Ethics](/pdf/sample_presentation.pdf)
+### [AI: To be or Not to be in Ethics](/pdf/CSCI301_AI_Ethics_Paper_2025 (1).pdf)
 
 -   **Class:** CSCI 301  
 -   **Grade:** 90 (A)
