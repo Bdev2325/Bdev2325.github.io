@@ -31,23 +31,13 @@ Ethics Papers
 -   **Class:** CSCI 301  
 -   **Grade:** 90 (A)
 
-### [The Smartphone Dilemma: Essential Communication Tool or Major Distraction?](/pdf/sample_presentation.pdf)
+### [The Smartphone Dilemma: Essential Communication Tool or Major Distraction?](/pdf/Paper1.pdf)
 
 -   **Class:** CSCI 235
 -   **Grade:** 95 (A)
 
 ---
 
-Presentations
--------------
-
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
-
----
 
 
 <!-- Remove above link if you don't want to attributive -->
