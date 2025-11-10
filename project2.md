@@ -6,7 +6,7 @@ Project 2 Ubuntu CIS Benchmark Compliance Checker
 -   **Class:** CSCI 301
 -   **Grade:** 100 (A)
 -   **Language(s):** BASH (scripting language)
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Source Code](https://github.com/Bdev2325/SeniorPortfolioSourceCode2/blob/main/README.md)
     (Please [email me](mailto:bjcooper2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
