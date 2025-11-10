@@ -6,7 +6,7 @@ Project 1 Automated Web Scraper
 -   **Class:** CSCI 301
 -   **Grade:** 100 (A)
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Bdev2325/SeniorPortfoiloSourceCode1/blob/main/Webscraper.py)
+-   **Source Code Repository:** [Source Code ](https://github.com/Bdev2325/SeniorPortfoiloSourceCode1/blob/main/Webscraper.py)
     (Please [email me](mailto:bjcooper2e@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
