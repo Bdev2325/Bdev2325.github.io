@@ -9,17 +9,17 @@ Programming Projects
 ---
 ### [Automated Web Scraper | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/thumbnail1.jpg)
+![Project 1 Thumbnail Name](images/thumbnail1.png)
 
 ---
 ### [Ubuntu CIS Benchmark Compliance Checker | CSCI 301 ](project2)
 
-![Project 2 Thumbnail Name](images/thumbnail2.jpg)
+![Project 2 Thumbnail Name](images/thunmbnail2.png)
 
 ---
 ### [Air Drop Data Transfer over UPD| CSCI 332](project3)
 
-![Project 3 Thumbnail Name](images/thumbnail3.jpg)
+![Project 3 Thumbnail Name](images/thumbnail3.png)
 
 ---
 
