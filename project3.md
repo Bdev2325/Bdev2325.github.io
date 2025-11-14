@@ -304,14 +304,6 @@ The .received suffix clearly distinguishes the received copy from the original f
 
 The server uses binary append mode ("ab") so any binary content (images, PDFs, etc.) is preserved correctly.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 <div class="video-wrapper">
   <iframe
