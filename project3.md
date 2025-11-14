@@ -317,8 +317,8 @@ Fig 3. Feedback when an error occurs.
   <iframe
     width="560"
     height="315"
-    src="[https://www.youtube.com/embed/VIDEO_ID](https://youtube.com/shorts/uP37Z8zGAho?feature=share)"
-    title="Project demo video"
+    src="https://youtube.com/shorts/uP37Z8zGAho?feature=share"
+    title="Project Demo Video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
