@@ -313,5 +313,17 @@ Fig 2. Example output after input is processed.
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 3. Feedback when an error occurs.
 
+<div class="video-wrapper">
+  <iframe
+    width="560"
+    height="315"
+    src="[https://www.youtube.com/embed/VIDEO_ID](https://youtube.com/shorts/uP37Z8zGAho?feature=share)"
+    title="Project demo video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 [Back to Portfolio](./)
