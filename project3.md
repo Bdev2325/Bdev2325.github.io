@@ -6,7 +6,7 @@ Project 3 Air Drop
 -   **Class:** CSCI 332
 -   **Grade:** 97 (A)
 -   **Language(s):** C ++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Source Code](https://github.com/Bdev2325/SeniorPortfolioSourceCode3/blob/main/README.md) 
     (Please [email me](mailto:bjcooper2@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
