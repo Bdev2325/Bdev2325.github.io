@@ -309,7 +309,7 @@ The server uses binary append mode ("ab") so any binary content (images, PDFs, e
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube.com/shorts/ztwCs3WP70g"
+    src="https://www.youtube.com/embed/ztwCs3WP70g"
     title="Air Drop over UDP team project"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
