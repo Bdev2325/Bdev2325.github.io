@@ -107,13 +107,13 @@ How It Works:
 
 After installing bs4 and python3 excute the script (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/Webscraper3.jpg)  
+![screenshot](images/Webscraper3.png)  
 Fig 1. The launch screen
 
-![screenshot](images/webscraper1.jpg)  
+![screenshot](images/webscraper1.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/webscraper2.jpg)
+![screenshot](images/webscraper2.png)
 Fig 3. Example output after input is processed.
 
 
