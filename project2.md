@@ -107,10 +107,10 @@ The modular structure also allows future expansion—for example, adding checks 
 - Extensible: Additional checks can easily be added for other CIS Benchmark rules.
 
 
-![screenshot](images/compliance_checker1.jpg)  
+![screenshot](images/compliance_checker2.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/ompliance_checker2.jpg)  
+![screenshot](images/ompliance_checker1.jpg)  
 Fig 2. Example output after input is processed.
 
 
