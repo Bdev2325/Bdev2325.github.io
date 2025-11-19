@@ -59,53 +59,6 @@ The server:
 
 This forms a simple stop-and-wait protocol on top of UDP: the client sends one packet and waits for an acknowledgment before sending the next, which adds reliability to UDP’s best-effort delivery.
 
-## How to compile and run the program
-
-Protocol Overview
-
-Each application-level packet uses the following simple format: 
-
-Final Project Air Drop(1)
-
-First 4 bytes: Type
-
-"Data" – indicates that the packet contains file data.
-
-"Done" – indicates the end of the transmission.
-
-Remaining bytes (for Data packets): Raw file data.
-
-The client:
-
-Sends the filename first.
-
-Reads the file in 1000-byte chunks into a buffer.
-
-Builds a packet by copying "Data" into the first 4 bytes, followed by the 1000 bytes (or fewer for the last chunk) of file data. 
-
-Timmyclient
-
-Sends the packet to the server and waits for a small acknowledgment (the first 4 bytes echoed back).
-
-After the entire file has been sent, the client sends a final "Done" packet and waits for the final acknowledgment, then closes the connection. 
-
-Timmyclient
-
-The server:
-
-Receives the initial filename and opens a new output file named <filename>.received in binary append mode. 
-
-Brandon_Server_2
-
-For each packet:
-
-If the first 4 bytes are "Data", it writes the remaining bytes to the file, and sends an acknowledgment by echoing the first 4 bytes back to the client.
-
-If the first 4 bytes are "Done", it sends back "Done" as acknowledgment and terminates the loop. 
-
-
-
-This forms a simple stop-and-wait protocol on top of UDP: the client sends one packet and waits for an acknowledgment before sending the next, which adds reliability to UDP’s best-effort delivery.
 
 ## How to Run the Program
 
@@ -177,7 +130,7 @@ The client will prompt you for:
  ```
  Type the name of an existing file in the current directory (Honey_applecrisp.jpg)
 
-The client will:
+The "client" will do the following:
 
 Open the file in binary mode.
 
@@ -197,7 +150,7 @@ The server saves the incoming data as a new file named:
 ```
 <Honey_Applecrisp>.received
 ```
-On the server terminal, you’ll see log output:
+On the server terminal, you’ll see the log output:
 
 ```
 Brandon's Project Received Filename: test.jpg
