@@ -26,6 +26,7 @@ Programming Projects
 
 ![Project 4 Thumbnail Name](images/thumbnail4.png)
 
+---
 
 Ethics Papers
 -------------
