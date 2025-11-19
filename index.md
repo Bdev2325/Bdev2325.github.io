@@ -22,6 +22,10 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/thumbnail3.png)
 
 ---
+### [Battleship| CSCI 235](project4)
+
+![Project 4 Thumbnail Name](images/thumbnail4.png)
+
 
 Ethics Papers
 -------------
