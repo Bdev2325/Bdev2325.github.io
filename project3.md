@@ -216,21 +216,22 @@ Brandon_Server_2
 Startup Prompt
 
 Asks:
-
+```
 "Please enter the listening port:"
+```
 
 After binding the socket, shows that it is listening:
-
+```
 "Listening on UDP port <port> — waiting for first packet…"
-
+```
 Filename Handling
 
 When the first packet (filename) is received, the server prints:
-
+```
 "Brandon's Project Received Filename: <name>"
 
 "Brandon's Project Filename to be saved: <name>.received"
-
+```
 Data Reception Feedback
 
 For each data packet:
@@ -238,17 +239,17 @@ For each data packet:
 Writes the payload to the output file.
 
 Prints a message like:
-
+```
 "Brandon's Project Received <N> bytes"
-
+```
 Sends a 4-byte acknowledgment ("Data") back to the client.
 
 When it receives a "Done" packet:
 
 Prints:
-
+```
 "Brandon's Project Transfer complete."
-
+```
 Sends back "Done" and then exits the loop.
 
 Output File Design
