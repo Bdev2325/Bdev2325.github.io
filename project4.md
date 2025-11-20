@@ -20,11 +20,11 @@ Prerequisites
 
 Make sure the following files are in the same folder:
 
-Battleship.cpp
-GameSpecs.hpp
+Battleship.cpp,
+GameSpecs.hpp,
 EnemyAI.hpp
 
-Step 1 – Compile
+Step 1: Compile
 
 install g++ in you environment and run the following command:
 
@@ -35,19 +35,18 @@ g++ Battleship.cpp -o battleship
 This produces the executable file. The headers EnemyAI.hpp and GameSpecs.hpp are included directly by Battleship.cpp, 
 so you only need to compile the Battleship.cpp file.
 
-Step 2 – Execute the program
+Step 2: Execute the program
 
 Execute the following command:
 
 ```
 ./battleship
-
 ```
 
-Step 3 - Enter the coordinates:
+Step 3: Enter the coordinates:
 
 ```
- Enter the coordinates for your shot ( e.g. B2):
+Enter the coordinates for your shot ( e.g. B2):
 ```
 
 ![screenshot](images/battle1.png)  
