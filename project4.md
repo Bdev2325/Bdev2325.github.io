@@ -29,7 +29,7 @@ Step 1 – Compile
 install g++ in you environment and run the following command:
 
 ```
-g++ -std=c++17 Battleship.cpp -o battleship
+g++ Battleship.cpp -o battleship
 ```
 
 This produces the executable file. The headers EnemyAI.hpp and GameSpecs.hpp are included directly by Battleship.cpp, 
@@ -44,12 +44,31 @@ Execute the following command:
 
 ```
 
+Step 3 - Enter the coordinates:
+
+```
+ Enter the coordinates for your shot ( e.g. B2):
+```
+
+![screenshot](images/battle1.png)  
+Fig 1. The launch screen
+
+![screenshot](images/battle2.png)  
+Fig 2. Example output after input is processed.
+
+![screenshot](images/battle3.png)  
+Fig 3. When coordinates have already been shot at.The game instructs player to pick a new coordinate.
+
+![screenshot](images/battle4.png)  
+Fig 4. When enemy hits target the lowercase letter indicates hit.
+
+
 
 ## UI Design
 
 The game runs entirely in the terminal and displays two grids side-by-side: the enemy’s fleet on the left and your fleet on the right. Rows are labeled A–J and columns 1–10. Your board shows your ships using letters (A, B, S, D, P), water as ., misses as ~, and hit ship tiles as lowercase letters (a, b, s, d, p). 
 
-The enemy board normally hides ship positions: unknown tiles are shown as ., your misses as ~, and your successful hits as X. At the end of the game (or when showAll is enabled), the enemy’s full layout is revealed using the same symbol scheme as your board, with lowercase letters marking hit sections of ships. Input is coordinate-based (e.g., B2), and the game prints clear messages such as “Hit!”, “Miss.”, and “You sunk the enemy’s Battleship!” to keep the player informed of the game state.
+The enemy board normally hides ship positions: unknown tiles are shown as ".", misses as "~", and your successful hits as "X". At the end of the game (or when showAll is enabled), the enemy’s full layout is revealed using the same symbol scheme as your board, with lowercase letters marking hit sections of ships. Input is coordinate-based (e.g., B2), and the game prints clear messages such as “Hit!”, “Miss.”, and “You sunk the enemy’s Battleship!” to keep the player informed of the game state.
 
 
 [Back to Portfolio](./)
