@@ -45,7 +45,6 @@ Execute the following command:
 ```
 
 
-
 ## UI Design
 
 The game runs entirely in the terminal and displays two grids side-by-side: the enemy’s fleet on the left and your fleet on the right. Rows are labeled A–J and columns 1–10. Your board shows your ships using letters (A, B, S, D, P), water as ., misses as ~, and hit ship tiles as lowercase letters (a, b, s, d, p). 
